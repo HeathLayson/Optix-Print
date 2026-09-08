@@ -29,5 +29,6 @@ It reacts to every generation of that report. Any trigger that runs GeneratePdf 
 
 So: parameterized and portable; you'd only touch the .cs if you wanted different logic (multiple reports in one instance, an enable/disable toggle, print-once semantics, etc.).
 
+<img width="1235" height="307" alt="image" src="https://github.com/user-attachments/assets/ef2d30c8-10e0-4b59-92ab-7bce6f9fa5d1" />
 
 
